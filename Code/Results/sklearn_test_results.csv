@@ -1,0 +1,121 @@
+Combination,MAE,ADJ_R2
+"('Mean_Years_Of_Schooling_2020', 'Unemployment_2020')",4.550100289033643,0.5945073478416296
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Unemployment_2020')",4.497087496935168,0.5833501305886548
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Unemployment_2020')",4.506582231092428,0.5819942072283368
+"('Mean_Years_Of_Schooling_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.500001813584692,0.5699071820397457
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020')",4.436365677918919,0.5698615018806678
+"('Mean_Years_Of_Schooling_2020', 'Access_To_Electricity_2020')",4.615631011899062,0.5606104928925886
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.500744004847927,0.5532940390907803
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.438891163283555,0.5529830187860127
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020')",4.677293619974073,0.5487046323884712
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020')",4.635873912864421,0.5483810986190691
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",4.61833866039848,0.5440789153529622
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Access_To_Electricity_2020')",4.548594529598303,0.5435104425573218
+"('Unemployment_2020', 'Access_To_Electricity_2020')",5.079049651988869,0.5426443072190339
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.439339159713525,0.5350597642405235
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020')",4.593924780494954,0.5335126566722723
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",4.551258274877019,0.5257154240632034
+"('Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.084832797352586,0.5248216833934658
+"('CPI_Food_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.035224105385584,0.5246197820491207
+"('CPI_Food_2020', 'Access_To_Electricity_2020')",5.205147661272926,0.5226674979358439
+"('Net_FDI_2020', 'Access_To_Electricity_2020')",5.23778537958429,0.5224205199866839
+"('CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.038864141776987,0.5054620969284452
+"('CPI_Food_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",5.207390765867145,0.5038040391645735
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.924505568328415,0.4776761542631687
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.780076392018435,0.4750075750058794
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Access_To_Electricity_2020')",5.137221939312348,0.46671981976267596
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Access_To_Electricity_2020')",5.01318580137252,0.46132033154512064
+"('Life_Expectancy_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.192291566963781,0.46078203409643137
+"('Life_Expectancy_2020', 'Access_To_Electricity_2020')",5.33742561047235,0.4577730056366761
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020')",5.733824978746134,0.4551372492539958
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.011569569376842,0.4530448646884744
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020')",5.650069340565491,0.4518512084815065
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.853707910559829,0.45023745439459073
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.1264999353726965,0.44959601431429974
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Access_To_Electricity_2020')",5.290448125623356,0.4454634932466862
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",5.230655356819963,0.4420214480794181
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Unemployment_2020')",5.72291394599798,0.4381302138290347
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Unemployment_2020')",5.626307447646843,0.4378196264487427
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",5.093279885605398,0.43630604388361927
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.278006763088108,0.43576275181227564
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",5.432722202619035,0.43308709742234186
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.202761262003309,0.42392917625797966
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Access_To_Electricity_2020')",5.37406816133446,0.420063307069256
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020')",5.86332469943556,0.41776832724127233
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020')",5.768646617018612,0.4138175109626032
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Unemployment_2020')",5.850662802905565,0.3991020559397074
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020')",5.7427365522363685,0.39815691641114415
+"('Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.119662305304577,0.382036553291229
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.994216616232581,0.37801738421608533
+"('Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.308396840921727,0.3700432562045074
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.189407120392192,0.3638595349995384
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.2070172721142765,0.3575461826843678
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.116373049977252,0.3571131998376128
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.057319121941448,0.35433724201830974
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.38042997007241,0.352056589343812
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",4.991210966699859,0.35191641564813037
+"('Life_Expectancy_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.523468809538038,0.3518364406444724
+"('Life_Expectancy_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.397970969811104,0.34859424215488466
+"('Life_Expectancy_2020', 'CPI_Food_2020')",6.212769993049196,0.34771375090696677
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.256854466473007,0.34657594501825173
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.306154078313742,0.34562005141656627
+"('Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.4604863951469556,0.344092987153263
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.187436042203167,0.33824058144913394
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.474548489173233,0.33604614027006163
+"('Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.648265645764067,0.33539482416861566
+"('Life_Expectancy_2020', 'Unemployment_2020')",6.27535080489017,0.3351547487071558
+"('Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.170727267613558,0.3348404998416622
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.329828667352657,0.33298499362373624
+"('Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020')",5.285150794742144,0.3309021910801736
+"('CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.3829679055976865,0.33043481583641454
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.247942045461806,0.329167078854501
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.079739935665578,0.3277395646033251
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.086120460104886,0.3251960517585957
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.57751081530745,0.3246179827374167
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.4256546212420345,0.3241129176370001
+"('Life_Expectancy_2020', 'Net_FDI_2020')",6.408309850838077,0.3225129316762141
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020')",5.199636887139395,0.32188976563423277
+"('CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.583722235015163,0.3207111080392516
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.446675842073099,0.32061566466670144
+"('Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.460254031835266,0.3185786040418821
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Unemployment_2020')",6.242021975931248,0.3185423208042856
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.291247206840111,0.31780490899014147
+"('Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.648222380410268,0.3106864525407095
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.214021049886408,0.30821220145304096
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.520285939385021,0.30757754546323024
+"('Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.3116879539385256,0.30487241713172974
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020')",6.377893342350325,0.3042449289689828
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.369793631357648,0.30370355857605924
+"('CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020', 'Access_To_Electricity_2020')",5.382830150749076,0.3034705624307221
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.124517024113607,0.29974146028635973
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020')",5.583741240872632,0.29774111007140014
+"('CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Access_To_Electricity_2020')",5.583733180794599,0.29461061772466834
+"('Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.230182701032318,0.2944903905579911
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Unemployment_2020')",6.442715988201804,0.2915780538420344
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.47858683237228,0.2908346326425644
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020')",5.488358836707013,0.289531946088428
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.364489097990696,0.28538436391137434
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020')",6.404099533942172,0.272874436418294
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.703988853380623,0.26472673405750247
+"('Life_Expectancy_2020', 'Infant_Mortality_Rate_2020')",5.809002304984458,0.25954234524516084
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.5968030740456,0.2563061823287123
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.597166099448625,0.2554221523426211
+"('Life_Expectancy_2020', 'Mean_Years_Of_Schooling_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.4705851442741835,0.2498103990337377
+"('Life_Expectancy_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.738436821630548,0.24311875049835197
+"('Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.714030701956075,0.24132811093962647
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020')",5.779342412819998,0.23752360323510668
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.954276168153949,0.22567363698297438
+"('CPI_Food_2020', 'Infant_Mortality_Rate_2020')",5.771757262676511,0.22363059966701482
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.704720923225361,0.2211019555473247
+"('CPI_Food_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.661021876955865,0.22047121916867374
+"('Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.821390868897937,0.21541440286885583
+"('Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.739639181899978,0.21057783078650782
+"('Life_Expectancy_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.86930079133787,0.20733848769243357
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.912676660821117,0.20178908549638974
+"('CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020')",5.781151175898022,0.19225608902398295
+"('CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.694610863659327,0.18771518518672903
+"('Life_Expectancy_2020', 'CPI_Food_2020', 'Net_FDI_2020', 'Infant_Mortality_Rate_2020', 'Unemployment_2020')",5.8284592552529855,0.18332265274059212
+"('Net_FDI_2020', 'Unemployment_2020')",7.928428986618711,-0.027464356833450276
+"('CPI_Food_2020', 'Unemployment_2020')",7.8913655663055025,-0.02773576101701125
+"('CPI_Food_2020', 'Net_FDI_2020', 'Unemployment_2020')",7.898121662283476,-0.06682235615460042
+"('CPI_Food_2020', 'Net_FDI_2020')",8.039697310954468,-0.09341056051695817
