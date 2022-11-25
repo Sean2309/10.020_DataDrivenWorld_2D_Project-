@@ -16,7 +16,9 @@ def index():
 	form.graph.choices = options.graphs
 	form.var1.choices = options.vars
 	form.var2.choices = options.vars
+
 	if form.validate_on_submit():
+		print(form)
 		generate_univariate_graph(form)
 		return render_template('graph.html')
 	
