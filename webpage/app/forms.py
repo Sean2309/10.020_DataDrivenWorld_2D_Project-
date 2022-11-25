@@ -24,8 +24,10 @@ class RegistrationForm(FlaskForm):
 class DropdownForm(FlaskForm):
 	var_type = SelectField("Choose variable type", validators=[DataRequired()])
 	graph = SelectField("Choose graph type", validators=[DataRequired()])
-	var1 = SelectField("Choose the 1st variable", validators=[DataRequired()])
-	var2 = SelectField("Choose the 2nd variable", validators=[DataRequired()])
+	var_x = SelectField("Choose the x variable", validators=[DataRequired()]) # X Variable
+	var_hue = SelectField("Choose the hue variable", validators=[DataRequired()]) # Hue Variable
+	var_y = SelectField("Choose the y variable", validators=[DataRequired()]) # Y Variable for bivariate
+	var_year = SelectField("Choose the year variable", validators=[DataRequired()])
 	submit = SubmitField('Display')
 
 
