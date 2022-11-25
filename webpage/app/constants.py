@@ -18,7 +18,8 @@ options = {
        'Net_FDI', 'Infant_Mortality_Rate', 'Unemployment',
        'Access_To_Electricity', 'Fertility_Rate',
        'Immunization_Measles', 'Labor_Force_Gender_Ratio',
-       'Corruption_Perception_Index', 'Prevalence_of_undernourishment']
+       'Corruption_Perception_Index', 'Prevalence_of_undernourishment'],
+    "years": ["2016", "2017", "2018", "2019", "2020"]
 }
 
 PLOTS_TO_FUNC = {

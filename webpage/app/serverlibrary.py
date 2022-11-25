@@ -4,9 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
-from constants import *
+from .constants import *
 
-df = pd.read_csv("././Datasets/Processed/All_DF_Processed_with_Cat_Cols.csv")
+df = pd.read_csv("dataset.csv")
 df.drop("Unnamed: 0", axis=1, inplace=True)
 print(df.head())
 

@@ -1,10 +1,8 @@
 from app import application
 from flask import render_template, flash, redirect, url_for
 from app.forms import * 
-from app.models import User 
 from werkzeug.urls import url_parse
-from constants import *
-from app import db
+from .constants import *
 from flask import request 
 from app.serverlibrary import * 
 
@@ -12,10 +10,12 @@ from app.serverlibrary import *
 @application.route('/index', methods=['GET', 'POST'])
 def index():
 	form = DropdownForm()
-	form.var_type.choices = options.var_types
-	form.graph.choices = options.graphs
-	form.var1.choices = options.vars
-	form.var2.choices = options.vars
+	form.var_type.choices = options.get("var_types")
+	form.graph.choices = options.get("graphs")
+	form.var_hue.choices = options.get("vars")
+	form.var_x.choices = options.get("vars")
+	form.var_y.choices = options.get("vars")
+	form.var_year.choices = options.get("years")
 
 	if form.validate_on_submit():
 		print(form)
